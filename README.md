@@ -1,4 +1,4 @@
-# PHP SQL Injection Auditor
+# PHP SQL Injection Code Auditor
 
 This Python script scans PHP files for potential SQL injection vulnerabilities. It identifies variables from `$_GET`, `$_POST`, and `$_REQUEST` superglobals and checks if they are used in SQL queries without proper sanitization.
 
